@@ -20,13 +20,27 @@ Projektmedlemmar:
 
 
 *1. Startsida med korta urval av senaste nytt, med länkar till hela inläggen. (2-3 stycken för demonstrativt syfte)*
+
+
 *2. En sida med skivsläpp*
+
+
 *3. En sida med artiklar ang. nya videos, samt länkar till fulla artikeln.*
+
+
 *4. Sociala medier, Twitter osv. Får bli fiktiva eller länka till min förra facebook-sida till bloggen och min twitter tills vidare.*
+
+
 *5. Kontakt: Det är bra att få tips om nyheter och releases, en kontaktsida är därför lämplig att ha*
+
+
 *6. En sida som länkas till från fejkbanners. Tanken är att det ska finnas plats för banners vid sidan och ev. mellan ariklar*
+
+
 *Sidan kommer att vara på engelska, för en större (ännu fikiv) målgrupp. Finns redan en eminent svensk nyhetssida för rock - Rocknytt.*
 *En ganska snarlik sida på svenska känns därför överflödigt.*
+
+
 *Jag vill ha plats för annonser, och kommer därför använda mig av fejk-banners som referar till sida 6, med ett fiktivt erbjudande.*
 *På så vis, om jag vill ta min sida i bruk, i mån av tid, har jag en färdig sida, med plats för banners, som kan bytas ut mot riktiga annonser.*
 
