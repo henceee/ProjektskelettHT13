@@ -3,7 +3,7 @@ Projektmedlemmar:
 [Hg222dv](https://github.com/henceee)
 
 
-[Exekverbar version av projektet](https://github.com/henceee/Webbprojekt)
+[Repo](https://github.com/henceee/Webbprojekt)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
@@ -62,6 +62,6 @@ Projektmedlemmar:
 *till Rock-Extra, såsom min gamla blogg hette, på grund av bristande fantasi*
 
 ## Tidsplanering
-(http://img266.imageshack.us/img266/2805/g70.gif)
-(http://imageshack.us/photo/my-images/266/g70.gif/)
+http://img266.imageshack.us/img266/2805/g70.gif
+
 
