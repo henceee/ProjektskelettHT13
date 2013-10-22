@@ -12,8 +12,13 @@ Projektmedlemmar:
 *och rocknyheter i allmänhet. Tyvärr var det en stressig tillvaro då det händer mer i rockvärlden än man tror- nya releases*
 *nyheter och plattor man inte hunnit lyssna igenom ännu. Det gick därför i graven rätt fort, jag ville bara slänga mig i soffan*
 *när jag kom hem från jobbet.*
+
+
+
 *Men så har drömmen dykt upp igen, att driva en hemsida om musiken jag älskar, kanske även ha en youtube-sida där man pratar om senaste nytt.*
 *Sidan kanske inte kommer att implementeras senare, pga tidsbrist men vill göra en sida för nåt jag verkligen brinner för. Upplägget tänker jag mig som följer:*
+
+
 *1. Startsida med korta urval av senaste nytt, med länkar till hela inläggen. (2-3 stycken för demonstrativt syfte)*
 *2. En sida med skivsläpp*
 *3. En sida med artiklar ang. nya videos, samt länkar till fulla artikeln.*
